@@ -6,14 +6,7 @@
 
 Exercicios em php 
 
-## Sumário
 
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias](#tecnologias)
-- [Instalação](#instalação)
-- [Como usar](#como-usar)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 
 
