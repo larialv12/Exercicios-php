@@ -15,11 +15,7 @@ Exercicios em php
 - [Contribuindo](#contribuindo)
 - [Licença](#licença)
 
-## Funcionalidades
 
-- Cadastro de novos produtos
-- Edição de produtos existentes
-- Exclusão de produtos
 
 ## Tecnologias
 
